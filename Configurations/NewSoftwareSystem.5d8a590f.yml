@@ -24,3 +24,5 @@ children:
     type: service
   - id: ada3d818-1088-e813-6759-5aad932dc776
     type: gateway
+  - id: 6b5b318b-b14f-723b-7cc4-615e44576107
+    type: database

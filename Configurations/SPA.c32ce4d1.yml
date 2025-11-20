@@ -14,6 +14,9 @@ annotations:
       35ce419e-2aa6-b6d9-402c-365ff791c5d0:
         x: 390.5
         y: 124.5
+      f83ad5ca-73e0-7400-cb2d-16ea2a552a72:
+        x: 390.5
+        y: 124.5
 port: 10000
 proxy: traefik
 name: SPA

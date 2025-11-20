@@ -6,8 +6,8 @@ annotations:
     name: position
     value:
       f83ad5ca-73e0-7400-cb2d-16ea2a552a72:
-        x: 223.15112540192925
-        y: 157.13826513750377
+        x: 140
+        y: 124.5
 name: Product
 description: Description for NewController
 children:
