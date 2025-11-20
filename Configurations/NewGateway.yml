@@ -1,0 +1,20 @@
+id: 148f55f9-3d94-434d-a343-8a43c8c9de91
+type: gateway
+interactions:
+- targetId: 65a7346d-5858-4143-887a-1baf9783875f
+  type: service
+  level: container
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    02ad8277-75d9-44d8-9afc-10c15ea3225f:
+      x: 126
+      y: 125.5
+    65a7346d-5858-4143-887a-1baf9783875f:
+      x: 1235.5
+      y: 125.5
+port: 10000
+proxy: envoy
+name: NewGateway
+description: Envoy gateway

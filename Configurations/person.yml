@@ -1,0 +1,27 @@
+id: a238dbfc-8b36-448f-816d-8c08585d53a7
+type: person
+description: Person that use the system
+name: Person
+interactions:
+- type: software-system
+  targetId: 02ad8277-75d9-44d8-9afc-10c15ea3225f
+  level: context
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    context:
+      x: 90.5
+      y: 56
+    container:
+      x: 916.5
+      y: 80.5
+    component:
+      x: 419.5
+      y: 80.5
+    95ccb922-91f3-4696-b784-ccfa5599194e:
+      x: 90.5
+      y: 58.5
+    02ad8277-75d9-44d8-9afc-10c15ea3225f:
+      x: 659
+      y: 125.5
