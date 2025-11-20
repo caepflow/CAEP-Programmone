@@ -1,0 +1,23 @@
+id: f83ad5ca-73e0-7400-cb2d-16ea2a552a72
+type: service
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      81216553-1ca6-4b8e-856a-15950873bd13:
+        x: 247.395498392283
+        y: 353.9228310539025
+      35ce419e-2aa6-b6d9-402c-365ff791c5d0:
+        x: 420
+        y: 419.5
+target:
+  framework: net
+  version: 9
+generationMode: default
+name: Shopping
+description: Description for NewService
+namespace: Ca.Shopping.Store
+children:
+  - id: f4d2c52e-5bf9-9097-f70b-a25bb251e320
+    type: controller

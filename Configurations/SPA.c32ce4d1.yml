@@ -1,0 +1,21 @@
+id: ada3d818-1088-e813-6759-5aad932dc776
+type: gateway
+interactions:
+  - targetId: f83ad5ca-73e0-7400-cb2d-16ea2a552a72
+    type: service
+    level: container
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      81216553-1ca6-4b8e-856a-15950873bd13:
+        x: 464.5040068137197
+        y: 168.08041121956458
+      35ce419e-2aa6-b6d9-402c-365ff791c5d0:
+        x: 390.5
+        y: 124.5
+port: 10000
+proxy: traefik
+name: SPA
+description: Description for NewGateway
+prefix: store

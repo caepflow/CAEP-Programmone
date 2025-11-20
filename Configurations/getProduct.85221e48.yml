@@ -1,0 +1,18 @@
+id: 0b113139-cca2-afbc-54b4-594a0515fe0c
+type: operation
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      f4d2c52e-5bf9-9097-f70b-a25bb251e320:
+        x: -90.62716605735676
+        y: -54.372372532445674
+name: getProduct
+description: Description for newOperation
+parameters:
+  - type: string
+    description: New Parameter
+    name: result
+    direction: out
+method: http_get

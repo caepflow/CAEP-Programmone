@@ -1,0 +1,26 @@
+id: 81216553-1ca6-4b8e-856a-15950873bd13
+type: software-system
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      95ccb922-91f3-4696-b784-ccfa5599194e:
+        x: 61.824758842443686
+        y: 313.61157724558353
+  - namespace: c4modeler
+    name: boundary
+    value:
+      x: 275
+      y: 235
+      width: 550
+      height: 470
+name: NewSoftwareSystem
+description: Description for NewSoftwareSystem
+children:
+  - id: 35ce419e-2aa6-b6d9-402c-365ff791c5d0
+    type: web-application
+  - id: f83ad5ca-73e0-7400-cb2d-16ea2a552a72
+    type: service
+  - id: ada3d818-1088-e813-6759-5aad932dc776
+    type: gateway
