@@ -1,0 +1,12 @@
+id: 5b7e1329-fa72-ee23-6aac-7560ccb5d69e
+type: person
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      8a40a6d3-220d-457b-bbe1-f73de9efffec:
+        x: -419.78030676062406
+        y: 263.1218062477428
+name: NewPerson2
+description: Description for NewPerson

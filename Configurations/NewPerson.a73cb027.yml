@@ -4,6 +4,9 @@ interactions:
   - targetId: 5263edeb-743a-de8a-a751-9c947b2155fc
     type: software-system
     level: context
+  - targetId: 5b7e1329-fa72-ee23-6aac-7560ccb5d69e
+    type: person
+    level: context
 annotations:
   - namespace: c4modeler
     name: position
