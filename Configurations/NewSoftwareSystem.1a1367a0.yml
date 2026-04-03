@@ -1,0 +1,13 @@
+id: 5263edeb-743a-de8a-a751-9c947b2155fc
+type: software-system
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      8a40a6d3-220d-457b-bbe1-f73de9efffec:
+        x: -176.42002467105263
+        y: 186.77240953947367
+isExternal: true
+name: NewSoftwareSystem
+description: Description for NewSoftwareSystem
