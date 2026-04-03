@@ -10,4 +10,6 @@ children:
     type: person
   - id: 5263edeb-743a-de8a-a751-9c947b2155fc
     type: software-system
+  - id: 741c8532-17f4-d999-8324-6f1a169104df
+    type: person
 tenantId: 5f37364f-201e-47ea-2e89-08dd02619fda

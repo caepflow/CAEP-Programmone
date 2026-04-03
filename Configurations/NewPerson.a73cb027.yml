@@ -1,0 +1,15 @@
+id: 741c8532-17f4-d999-8324-6f1a169104df
+type: person
+interactions:
+  - targetId: 5263edeb-743a-de8a-a751-9c947b2155fc
+    type: software-system
+    level: context
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      8a40a6d3-220d-457b-bbe1-f73de9efffec:
+        x: -172.958984375
+        y: 50.98293585526316
+name: NewPerson
+description: Description for NewPerson
